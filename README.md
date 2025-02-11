@@ -1,16 +1,22 @@
-## Hi there 👋
+# About me👀
 
-<!--
-**jombaa/jombaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Johannes, and I am studying Applied Computer Science at OsloMet University, with a specialization in programming.
 
-Here are some ideas to get you started:
+During my studies I have gained an understanding of web applications, computer security, operating systems, databases, Internet of Things, software engineering, human computer interaction and software testing and I have worked on an artificial intelligence project. Currently working on our bachelor thesis and resource-efficient programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Attributes:
+Works effectively both independently and in teams. Outgoing and
+comfortable with group activities and meeting new people. Humble and driven to
+learn. Characterized as enthusiastic, dedicated, and creative.
+
+### Skills:
+Java, React, .Net, JavaScript, Linux, C#, HTML5, CSS3, SQL, NoSQL Spring, Git, GitHub, Bootstrap, Visual Studio Code, Figma, Jira, Miro
+
+### Hobbies:
+- sports
+- football
+- skiing
+- ski touring
+- mountain hiking
+- climbing
+- gaming
