@@ -12,11 +12,8 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 ### Skills:
 Java, React, .Net, JavaScript, Linux, C#, HTML5, CSS3, SQL, NoSQL Spring, Git, GitHub, Bootstrap, Visual Studio Code, Figma, Jira, Miro
 
-### Hobbies:
-- sports
-- football
-- skiing
-- ski touring
-- mountain hiking
-- climbing
-- gaming
+### ⚽ Hobbies
+⚽ Football
+🎿 Skiing & Ski Touring
+🏔️ Mountain Hiking & Climbing
+🎮 Gaming
