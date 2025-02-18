@@ -33,4 +33,4 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 - ⚽ Football
 - 🎿 Skiing & Ski Touring
 - 🏔️ Mountain Hiking & Climbing
-- 🎮 Gaming
+- 🎮 **Gaming**
