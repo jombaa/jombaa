@@ -30,7 +30,7 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
 
 ### ⚽ Hobbies
-- ⚽ Football
-- 🎿 Skiing & Ski Touring
-- 🏔️ Mountain Hiking & Climbing
+- ⚽ **Football**  
+- 🎿 **Skiing & Ski Touring**  
+- 🏔️ **Mountain Hiking & Climbing**  
 - 🎮 **Gaming**
