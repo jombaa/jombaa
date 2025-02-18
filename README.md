@@ -41,4 +41,4 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/johannes-matias-bj%C3%B8lverud-aas-a690b8254/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johannes-matias-bj%C3%B8lverud-aas-a690b8254/)
