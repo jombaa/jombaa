@@ -4,7 +4,7 @@ My name is Johannes, and I am studying Applied Computer Science at OsloMet Unive
 
 During my studies I have gained an understanding of web applications, computer security, operating systems, databases, Internet of Things, software engineering, human computer interaction and software testing and I have worked on an artificial intelligence project. Currently working on our bachelor thesis and resource-efficient programs.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ### Attributes:
 Works effectively both independently and in teams. Outgoing and
