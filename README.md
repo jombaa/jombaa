@@ -4,6 +4,8 @@ My name is Johannes, and I am studying Applied Computer Science at OsloMet Unive
 
 During my studies I have gained an understanding of web applications, computer security, operating systems, databases, Internet of Things, software engineering, human computer interaction and software testing and I have worked on an artificial intelligence project. Currently working on our bachelor thesis and resource-efficient programs.
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
 ### Attributes:
 Works effectively both independently and in teams. Outgoing and
 comfortable with group activities and meeting new people. Humble and driven to
