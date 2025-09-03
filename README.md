@@ -12,8 +12,8 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 ###  🚀 Skills:
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-purple?style=for-the-badge)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-yellow?style=for-the-badge)
-![Network and Communication Security](https://img.shields.io/badge/Network_and_Communication_Security-purple?style=for-the-badge)
-![Malware analysis](https://img.shields.io/badge/Malware_Analysis-purple?style=for-the-badge)
+![Network and Communication Security](https://img.shields.io/badge/Network_and_Communication_Security-burgundy?style=for-the-badge)
+![Malware analysis](https://img.shields.io/badge/Malware_Analysis-red?style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
