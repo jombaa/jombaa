@@ -2,7 +2,7 @@
 
 My name is Johannes, I am a studying Informatics: Information Security master at University of Oslo. I have finished my bachelor in Applied Computer Science at OsloMet University, with a specialization in programming.
 
-During my studies I have gained an understanding of web applications, computer security, operating systems, databases, Internet of Things, software engineering, human computer interaction and software testing and I have worked on an artificial intelligence project. Currently working on our bachelor thesis and resource-efficient programs.
+During my studies I have gained an understanding of web applications, computer security, operating systems, resource-efficient programs, databases, Internet of Things, software engineering, human computer interaction and software testing and I have worked on an artificial intelligence project. We made a music app for our our bachelor thesis where you can see smaller concerts in your area on a interactive map.
 
 ### Attributes:
 Works effectively both independently and in teams. Outgoing and
