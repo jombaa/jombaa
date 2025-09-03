@@ -10,7 +10,7 @@ comfortable with group activities and meeting new people. Humble and driven to
 learn. Characterized as enthusiastic, dedicated, and creative.
 
 ###  🚀 Skills:
-https://img.shields.io/badge/Ethical_hacking-8A2BE2
+(https://img.shields.io/badge/Ethical_hacking-8A2BE2)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
