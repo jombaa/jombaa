@@ -14,7 +14,7 @@ learn. Characterized as enthusiastic, dedicated, and creative.
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-yellow?style=for-the-badge)
 ![Network and Communication Security](https://img.shields.io/badge/Network_and_Communication_Security-maroon?style=for-the-badge)
 ![Security in Operating Systems and Software](https://img.shields.io/badge/Security_in_Operating_Systems_and_Software-red?style=for-the-badge)
-![Cyber Operations](https://img.shields.io/badge/Cyber_Operations-red?style=for-the-badge)
+![Cyber Operations](https://img.shields.io/badge/Cyber_Operations-navy?style=for-the-badge)
 ![Security and Risk Management](https://img.shields.io/badge/Security_and_Risk_Management-red?style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
